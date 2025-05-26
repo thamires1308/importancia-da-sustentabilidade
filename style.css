@@ -38,4 +38,18 @@ body {
             padding-top: 20px;
             font-size: 0.9em;
             color: #555;
+            /* Define a cor de fundo de todos os elementos "body" para verde */
+body {
+  background-color: green;
+}
+
+/* Define a cor de fundo de todos os elementos "div" para verde */
+div {
+  background-color: green;
+}
+
+/* Define a cor de fundo de um elemento específico com a classe "verde" para verde */
+.verde {
+  background-color: green;
+}
         }
